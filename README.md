@@ -78,5 +78,5 @@ This shows the most valuable customers and what they purchase.
 ## Conclusion and Recommendation
 More effort is needed to push the sales of Phones, binders, tables, labels and fasteners in a lot of countries outside United states and identify a better way to improve performance by reviewing the high shipping cost.
 
-
+## Thank You
 
